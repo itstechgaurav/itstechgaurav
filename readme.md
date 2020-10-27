@@ -1,4 +1,4 @@
-### Hi, 👋 i am [myselfgroot][website]
+### Hi, 👋 i am [Gaurav][website]
 
 ### i am a programmer ⌨️, student 👨‍🎓, researcher 🕵️
 
