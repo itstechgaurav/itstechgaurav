@@ -1,10 +1,14 @@
 ### Hi, 👋 i am [myselfgroot][website]
 
+<br />
+
 ### i am a programmer ⌨️, student 👨‍🎓, researcher 🕵️
 
 - 🌱 I’m currently learning how to write code 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to play with code
+
+<br />
 
 ### Connect with me: 🥂
 
