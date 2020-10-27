@@ -1,14 +1,10 @@
 ### Hi, 👋 i am [myselfgroot][website]
 
-<br />
-
 ### i am a programmer ⌨️, student 👨‍🎓, researcher 🕵️
 
 - 🌱 I’m currently learning how to write code 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to play with code
-
-<br />
 
 ### Connect with me: 🥂
 
@@ -19,8 +15,6 @@
 [<img align="left" alt="codingwarriors | Stackoverflow" width="50px" src="https://img.icons8.com/color/344/stackoverflow.png" />][stackoverflow]
 [<img align="left" alt="codingwarriors | NPM" width="50px" src="https://img.icons8.com/color/344/npm.png" />][npm]
 
-<br />
-<br />
 <br />
 <br />
 
@@ -48,6 +42,13 @@
 ### MY Github Stats: 💹
 
 ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=myselfgroot&show_icons=true)
+
+<br />
+
+### MY language Stats: ⽒
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfgroot&layout=compact)](https://github.com/myselfGroot/laravel-editor)
+
 
 
 [website]: https://www.instagram.com/myselfgroot/
