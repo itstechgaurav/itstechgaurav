@@ -1,6 +1,6 @@
 ### Hi, 👋 i am [myselfgroot][website]
 
-#### i am a programmer ⌨️, student 👨‍🎓, researcher 🕵️
+### i am a programmer ⌨️, student 👨‍🎓, researcher 🕵️
 
 - 🌱 I’m currently learning how to write code 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -16,35 +16,33 @@
 [<img align="left" alt="codingwarriors | NPM" width="50px" src="https://img.icons8.com/color/344/npm.png" />][npm]
 
 <br />
-
-### Languages and Tools:
-
-<img alt="" src="https://img.icons8.com/color/40/visual-studio-code-2019.png">
-<img alt="" src="https://img.icons8.com/color/40/git.png">
-<img alt="" src="https://img.icons8.com/color/40/github.png">
-<img alt="" src="https://img.icons8.com/color/40/html-5.png">
-<img alt="" src="https://img.icons8.com/color/40/css3.png">
-<img alt="" src="https://img.icons8.com/color/40/javascript.png">
-<img alt="" src="https://img.icons8.com/color/40/nodejs.png">
-<img alt="" src="https://img.icons8.com/color/40/mongodb.png">
-<img alt="" src="https://img.icons8.com/color/40/mysql.png">
-<img alt="" src="https://img.icons8.com/color/40/c.png">
-<img alt="" src="https://img.icons8.com/color/40/c-plus-plus.png">
-<img alt="" src="https://img.icons8.com/color/40/java.png">
-<img alt="" src="https://img.icons8.com/color/40/php.png">
-<img alt="" src="https://img.icons8.com/color/40/vue-js.png">
-<img alt="" src="https://img.icons8.com/color/40/bootstrap.png">
-<img alt="" src="https://img.icons8.com/color/40/npm.png">
-
-<br />
-<br />
 <br />
 
+### Languages and Tools: 🛠
 
-[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=myselfgroot&show_icons=true)](https://github.com/myselfgroot/github-readme-stats)
-
+![vscode](https://img.icons8.com/color/40/visual-studio-code-2019.png)
+![git](https://img.icons8.com/color/40/git.png)
+![github](https://img.icons8.com/color/40/github.png)
+![html5](https://img.icons8.com/color/40/html-5.png)
+![css3](https://img.icons8.com/color/40/css3.png)
+![javascript](https://img.icons8.com/color/40/javascript.png)
+![nodejs](https://img.icons8.com/color/40/nodejs.png)
+![mongodb](https://img.icons8.com/color/40/mongodb.png)
+![mysql](https://img.icons8.com/color/40/mysql.png)
+![c](https://img.icons8.com/color/40/c.png)
+![cpp](https://img.icons8.com/color/40/c-plus-plus.png)
+![java](https://img.icons8.com/color/40/java.png)
+![php](https://img.icons8.com/color/40/php.png)
+![vue-js](https://img.icons8.com/color/40/vue-js.png)
+![bootstrap](https://img.icons8.com/color/40/bootstrap.png)
+![npm](https://img.icons8.com/color/40/npm.png)
 
 <br />
+
+### MY Github Stats: 💹
+
+![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=myselfgroot&show_icons=true)
+
 
 [website]: https://www.instagram.com/myselfgroot/
 [twitter]: https://twitter.com/myselfgroot
