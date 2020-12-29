@@ -6,6 +6,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to play with code
 
+### Currently Listening 🎧
+
+[![Spotify](https://spotify-github-readme-1z94f0jks.vercel.app/api/spotify)](https://open.spotify.com/user/4ecr1arlruhosywxgjwyniuub)
+
 ### Connect with me: 🥂
 
 [<img align="left" alt="codingwarriors" width="50px" src="https://img.icons8.com/color/344/website.png" />][website]
