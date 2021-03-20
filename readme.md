@@ -1,6 +1,6 @@
 ### Hi, 👋 i am [Gaurav][website]
 
-### i am a programmer ⌨️, student 👨‍🎓, researcher 🕵️
+### programmer ⌨️ student 👨‍🎓 and researcher 🕵️
 
 - 🌱 I’m currently learning how to write code 🤣
 - 👯 I’m looking to collaborate with other content creators
