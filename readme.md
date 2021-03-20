@@ -12,7 +12,7 @@
 
 ### Connect with me: 🥂
 
-[<img align="left" alt="codingwarriors" width="50px" src="https://img.icons8.com/color/344/website.png" />][website]
+[<img align="left" alt="codingwarriors" width="50px" src="https://img.icons8.com/nolan/344/share-2.png" />][website]
 [<img align="left" alt="codingwarriors | Twitter" width="50px" src="https://img.icons8.com/color/344/twitter.png" />][twitter]
 [<img align="left" alt="codingwarriors | LinkedIn" width="50px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 [<img align="left" alt="codingwarriors | Instagram" width="50px" src="https://img.icons8.com/color/344/instagram.png" />][instagram]
