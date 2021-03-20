@@ -6,11 +6,11 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to play with code
 
-### Currently Listening 🎧
+### Currently Listening To 🎧
 
 [![Spotify](https://spotify-github-readme-1z94f0jks.vercel.app/api/spotify)](https://open.spotify.com/user/4ecr1arlruhosywxgjwyniuub)
 
-### Connect with me: 🥂
+### Want To Connect with me: 🥂
 
 [<img align="left" alt="codingwarriors" width="50px" src="https://img.icons8.com/nolan/344/share-2.png" />][website]
 [<img align="left" alt="codingwarriors | Twitter" width="50px" src="https://img.icons8.com/color/344/twitter.png" />][twitter]
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-### Languages and Tools: 🛠
+### Languages and Tools I Worked In: 🛠
 
 ![vscode](https://img.icons8.com/color/40/visual-studio-code-2019.png)
 ![git](https://img.icons8.com/color/40/git.png)
@@ -43,13 +43,13 @@
 
 <br />
 
-### MY Github Stats: 💹
+### My Github Stats: 💹
 
 ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=myselfgroot&show_icons=true)
 
 <br />
 
-### MY language Stats: ⽒
+### My language Stats: ⽒
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfgroot&layout=compact)](https://github.com/myselfGroot/laravel-editor)
 
