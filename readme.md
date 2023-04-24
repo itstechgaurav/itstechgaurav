@@ -45,13 +45,13 @@
 
 ### My Github Stats: 💹
 
-![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=myselfgroot&show_icons=true)
+![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=itstechgaurav&show_icons=true)
 
 <br />
 
 ### My language Stats: ⽒
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfgroot&layout=compact)](https://github.com/myselfGroot/laravel-editor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itstechgaurav&layout=compact)](https://github.com/myselfGroot/laravel-editor)
 
 
 
