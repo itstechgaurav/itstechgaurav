@@ -2,4 +2,4 @@
 
 ### Currently Listening To 🎧
 
-[![Spotify](https://spotify-github-readme-1z94f0jks.vercel.app/api/spotify)](https://open.spotify.com/user/4ecr1arlruhosywxgjwyniuub)
+[![Spotify](http://localhost:3000/api/spotify/embed/fee1dcc2-e9f7-4e7e-a705-f72505750138)](https://open.spotify.com/user/4ecr1arlruhosywxgjwyniuub)
